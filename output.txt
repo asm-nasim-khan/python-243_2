@@ -1,0 +1,3 @@
+Line no.1: word count: 3 in I love python.
+
+Line no.2: word count: 3 in I love Java.
